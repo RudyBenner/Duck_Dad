@@ -1,0 +1,2 @@
+Adjusted bed size.
+Adjusted nozzle offset from X and Y endstop positions.
