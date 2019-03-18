@@ -1,4 +1,4 @@
-/March 16 MKS_GEN_L --added E3D v6 --added Bowden - park- m600 BLT3
+//March 16 MKS_GEN_L --added E3D v6 --added Bowden - park- m600 BLT3
 
 /**
  * Marlin 3D Printer Firmware
