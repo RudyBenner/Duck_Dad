@@ -138,7 +138,8 @@
 #endif
 
 // Optional custom name for your RepStrap or other custom machine
-// Displayed in the LCD "Ready" message#define CUSTOM_MACHINE_NAME "Bug 2 Mar 16"
+// Displayed in the LCD "Ready" message
+#define CUSTOM_MACHINE_NAME "Bug 2 Mar 18"
 
 // Define this to set a unique identifier for this printer, (Used by some programs to differentiate between machines)
 // You can use an online service to generate a random UUID. (eg http://www.uuidgenerator.net/version4)
@@ -818,7 +819,7 @@
  */
 #define BLTOUCH
 #if ENABLED(BLTOUCH)
-  #define BLTOUCH_DELAY 375   // (ms) Enable and increase if needed
+  #define BLTOUCH_DELAY 100  //375   // (ms) Enable and increase if needed
 
   // BLTouch V3.0 and newer smart series
   //#define BLTOUCH_V3
