@@ -1,2 +1,0 @@
-New BLTouch installed.
-TMC2130 drivers ordered.
